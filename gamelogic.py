@@ -1,8 +1,7 @@
 turn = True
 # True = White's turn
 
-
-DEPTH = 1
+depth = 1
 
 PAWNVALUE = 1.0
 KNIGHTVALUE = 3.0
